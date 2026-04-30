@@ -75,4 +75,4 @@ So to solve that problem, I built this project.
 
 ## PREVIEW 
 
-     <img width="1917" height="1032" alt="Preview_pic" src="https://github.com/user-attachments/assets/9febb4ce-3f3c-498c-8462-6b6544040592" />
+<img width="1917" height="1032" alt="Preview_pic" src="https://github.com/user-attachments/assets/8bacf0bb-d569-462c-87cb-8845d0925425" />
